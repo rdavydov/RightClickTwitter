@@ -1,5 +1,7 @@
 # Right-Click Twitter
 
+![](img)
+
 Chrome/Firefox/Opera Extension that allows to select/mark a text and quickly tweet it via Right-Click Context Menu
 
 Opens the Twitter's new tweet page with the previously selected text inserted in the tweet body.
@@ -11,6 +13,10 @@ Opens the Twitter's new tweet page with the previously selected text inserted in
 
 ## How to Install
 
+Edge
+
+- (public v0.1) <https://microsoftedge.microsoft.com/addons/detail/^^^TODO^^^>
+
 Opera
 
 - (public v0.1) <https://addons.opera.com/^^^TODO^^^>
@@ -18,17 +24,17 @@ Opera
 Firefox
 
 - (public v0.1) <https://addons.mozilla.org/en-US/firefox/addon/^^^TODO^^^>
-
+<!-- 
 Chrome
 
-- (public v0.1) <https://chrome.google.com/webstore/detail/^^^TODO^^^>
+- (public v0.1) <https://chrome.google.com/webstore/detail/^^^TODO^^^> -->
 
 OR
 
-1. Clone this repo
-2. Go to chrome extensions [chrome://extensions](chrome://extensions)
-3. Enable developer mode
-4. Click on load unpacked extension and select this cloned repo
+1. Clone This Repo
+2. Go to Your Browser's extensions [chrome://extensions](chrome://extensions)
+3. Enable Developer Mode
+4. Click "Load unpacked" (extension) and Select This Cloned Repo's folder
 
 ## TODO
 
