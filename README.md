@@ -1,6 +1,6 @@
 # Right-Click Twitter
 
-![](img)
+![](https://github.com/rdavydov/RightClickTwitter/blob/master/Screenshot_1.png?raw=true)
 
 Chrome/Firefox/Opera Extension that allows to select/mark a text and quickly tweet it via Right-Click Context Menu
 
