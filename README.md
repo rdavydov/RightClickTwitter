@@ -1,26 +1,27 @@
-# Right-Click Steam Key Activator
-Chrome/Firefox/Opera Extension that allows to select/mark a SteamKey and quickly activate it via Right-Click Context Menu
+# Right-Click Twitter
 
-Opens the new Steam Web Key Activator Page and activates the previously selected Key.
+Chrome/Firefox/Opera Extension that allows to select/mark a text and quickly tweet it via Right-Click Context Menu
 
-You already need to be logged in on the Steam Web Page!
+Opens the Twitter's new tweet page with the previously selected text inserted in the tweet body.
 
 ## How to Use
 
-1. Select a Steam Key as Text
-2. Right-Click and select 'Activate Steam Key'
+1. Select any text on a webpage
+2. Right-Click and select 'Tweet' (with a Twitter icon)
 
 ## How to Install
 
 Opera
-- (public v1.2) https://addons.opera.com/de/extensions/details/activate-steam-key-from-context-menu/
+
+- (public v0.1) <https://addons.opera.com/^^^TODO^^^>
 
 Firefox
-- (public v1.2.2) https://addons.mozilla.org/en-US/firefox/addon/right-click-steamkey-activator/
+
+- (public v0.1) <https://addons.mozilla.org/en-US/firefox/addon/^^^TODO^^^>
 
 Chrome
-- (public v1.2.1) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/jfaclingjhpenmjnlcgiagihabfbilcb
-- (unlist v1.3) https://chrome.google.com/webstore/detail/activate-steam-key-from-c/haodongdjagdcfaojcmmkjpgbcfbnplk
+
+- (public v0.1) <https://chrome.google.com/webstore/detail/^^^TODO^^^>
 
 OR
 
@@ -28,3 +29,7 @@ OR
 2. Go to chrome extensions [chrome://extensions](chrome://extensions)
 3. Enable developer mode
 4. Click on load unpacked extension and select this cloned repo
+
+## TODO
+
+- extension option to autoclick the Tweet button on the opened page

@@ -1,9 +1,9 @@
 {
   "update_url": "https://clients2.google.com/service/update2/crx",
   "manifest_version": 3,
-  "name": "Activate Steam Key from Context Menu",
-  "description": "Use the right-click menu to activate selected steam key",
-  "version": "1.3",
+  "name": "Tweet from Context Menu",
+  "description": "Use the right-click menu to tweet selected text",
+  "version": "0.1",
   "permissions": [
     "contextMenus",
     "scripting"
