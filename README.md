@@ -35,7 +35,7 @@ Chrome
 
 - (public v0.1) <https://chrome.google.com/webstore/detail/^^^TODO^^^> -->
 
-OR
+OR (Chromium-based Browsers)
 
 1. Clone This Repo
 2. Go to Your Browser's extensions [chrome://extensions](chrome://extensions)

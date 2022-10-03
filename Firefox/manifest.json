@@ -1,9 +1,4 @@
 ﻿{
-  "applications": {
-    "gecko": {
-      // "id": "{fbd4f002-cfa9-4f50-ac44-d23398047d30}"
-    }
-  },
   "manifest_version": 2,
   "name": "Tweet from Context Menu",
   "description": "Use the right-click menu to tweet selected text",
