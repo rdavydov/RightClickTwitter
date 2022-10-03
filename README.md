@@ -1,4 +1,5 @@
 # Right-Click Twitter
+
 ![](https://img.shields.io/github/license/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=purple&logoColor=thistle)
 ![](https://img.shields.io/github/stars/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
 ![](https://img.shields.io/github/forks/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
