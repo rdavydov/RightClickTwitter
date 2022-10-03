@@ -1,4 +1,9 @@
 # Right-Click Twitter
+![](https://img.shields.io/github/license/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=purple&logoColor=thistle)
+![](https://img.shields.io/github/stars/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
+![](https://img.shields.io/github/forks/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
+![](https://img.shields.io/github/watchers/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=darkblue&logoColor=aquamarine)
+![](https://img.shields.io/github/last-commit/rdavydov/RightClickTwitter?style=for-the-badge&logo=github&color=darkgreen&logoColor=lightgreen)
 
 ![](https://github.com/rdavydov/RightClickTwitter/blob/master/Screenshot_1.png?raw=true)
 
