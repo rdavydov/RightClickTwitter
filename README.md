@@ -29,7 +29,7 @@ Opera
 
 Firefox
 
-- (public v0.1) <https://addons.mozilla.org/en-US/firefox/addon/^^^TODO^^^>
+- (public v0.1) <https://addons.mozilla.org/en-US/firefox/addon/tweet-from-context-menu/>
 <!-- 
 Chrome
 
