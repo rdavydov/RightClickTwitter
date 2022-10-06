@@ -21,7 +21,7 @@ Opens the Twitter's new tweet page with the previously selected text inserted in
 
 Edge
 
-- (public v0.1) <https://microsoftedge.microsoft.com/addons/detail/meiogkmcckjomppmoacmolhbbjdjnhni>
+- (public v0.1) <https://microsoftedge.microsoft.com/addons/detail/tweet-from-context-menu/meiogkmcckjomppmoacmolhbbjdjnhni>
 
 Opera
 
