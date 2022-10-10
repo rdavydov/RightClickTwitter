@@ -25,7 +25,7 @@ Edge
 
 Opera
 
-- (public v0.1) <https://addons.opera.com/^^^TODO^^^>
+- (public v0.1) <https://addons.opera.com/en/extensions/details/tweet-from-context-menu/>
 
 Firefox
 
